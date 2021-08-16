@@ -1,0 +1,35 @@
+body {
+ background-color: lightgray;
+}
+
+.jumbotron {
+ background-color: white;
+ margin: 1%;
+ color:coral;
+ font-weight: bold;
+}
+
+.display-3 {
+ font-family: fantasy;
+ padding: 2%;
+}
+
+.songParagraph {
+ padding: 1%;
+}
+
+.songBody {
+ padding: 1%;
+ border: solid coral;
+ margin: 1%;
+}
+
+#addSong {
+ background-color: red;
+ opacity: 80%;
+ color: white;
+}
+
+.delete, .isListened {
+ border: black solid;
+}
